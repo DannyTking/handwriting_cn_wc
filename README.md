@@ -4,8 +4,8 @@
 基于中国书法艺术字型的云词小应用
 
 ## Overview
-[家]
-[生]
+![家](./out/handwriting_1.png)
+![生](./out/handwriting_2.png)
 
 ## Quickstart
 1. 准备书法字图片, 256x256, 白底黑字  
